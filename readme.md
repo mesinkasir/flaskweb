@@ -49,3 +49,16 @@ Other page display
 Demo : [https://android.axcora.com](https://android.axcora.com)
 
 Documentation installation :[https://www.hockeycomputindo.com/2021/11/free-download-source-code-phyton-flask.html](https://www.hockeycomputindo.com/2021/11/django-blog-cms-source-code-free.html)
+
+
+
+------------------------------------------------------------
+
+### Buy me a coffee ☕️ ❤️  ✌🏻 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
