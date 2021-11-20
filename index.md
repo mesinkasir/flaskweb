@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+# Flask Phyton Web template
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/flaskweb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A template themes for phyton flask website
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Demo : [https://android.axcora.com](https://android.axcora.com)
 
-### Markdown
+Documentation installation :[https://www.hockeycomputindo.com/2021/11/free-download-source-code-phyton-flask.html](https://www.hockeycomputindo.com/2021/11/free-download-source-code-phyton-flask.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![free flask phyton web themes](https://1.bp.blogspot.com/-59VQQF41l4o/YZjMcoB3hyI/AAAAAAAAR_c/KgKN5Ij8NbQBML8hcfqALNI53LnK_0O4ACLcBGAsYHQ/s1024/free%2Bsource%2Bcode%2Bflask%2Bphyton%2Bwebsite%2Btemplate%2Bthemes%2Bgratis%2Bdownload%2B%25281%2529.jpg)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Demo : [https://android.axcora.com](https://android.axcora.com)
 
-- Bulleted
-- List
+Documentation installation :[https://www.hockeycomputindo.com/2021/11/free-download-source-code-phyton-flask.html](https://www.hockeycomputindo.com/2021/11/django-blog-cms-source-code-free.html)
 
-1. Numbered
-2. List
+-------------------------------------------------------------
 
-**Bold** and _Italic_ and `Code` text
+### Build fast web with phyton flask
 
-[Link](url) and ![Image](src)
-```
+![free flask phyton web themes](https://1.bp.blogspot.com/-j5W08RvhRFY/YZjMc7_ukYI/AAAAAAAAR_g/-XhL4nTWAUoRPhldJvPgR6V255P9BntewCLcBGAsYHQ/s640/free%2Bsource%2Bcode%2Bflask%2Bphyton%2Bwebsite%2Btemplate%2Bthemes%2Bgratis%2Bdownload%2B%25281%2529.png)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Recipes :
++ bootstrap
++ fontawesome
++ primer
++ flask
++ phyton
 
-### Jekyll Themes
+![free flask phyton web themes](https://1.bp.blogspot.com/-JE5PwZCW5FI/YZjMc-xBHkI/AAAAAAAAR_k/cYk_ZAVk2yEdYMwE5nDNz1N8e0Yw-HTHACLcBGAsYHQ/s2048/free%2Bsource%2Bcode%2Bflask%2Bphyton%2Bwebsite%2Btemplate%2Bthemes%2Bgratis%2Bdownload%2B%25281%2529.jpeg)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/flaskweb/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Home page display
 
-### Support or Contact
+![free flask phyton web themes](https://1.bp.blogspot.com/-eQw8HLLQflU/YZjMfOUEsOI/AAAAAAAAR_0/zi0LewfYT18clgJv0YGNOc6rJ0n002VxQCLcBGAsYHQ/s1234/free%2Bsource%2Bcode%2Bflask%2Bphyton%2Bwebsite%2Btemplate%2Bthemes%2Bgratis%2Bdownload%2B%25284%2529.jpeg)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Content article display
+
+![free flask phyton web themes](https://1.bp.blogspot.com/-ZyIGKCAX-uo/YZjMe1vOD1I/AAAAAAAAR_w/drTPdxNvXKI6gvMVM0hHsAG_J1lC4E_bACLcBGAsYHQ/s3103/free%2Bsource%2Bcode%2Bflask%2Bphyton%2Bwebsite%2Btemplate%2Bthemes%2Bgratis%2Bdownload%2B%25283%2529.jpeg)
+
+Gallery page
+
+![free flask phyton web themes](https://1.bp.blogspot.com/-PqNHqKujIoQ/YZjMdyVHWOI/AAAAAAAAR_o/81j_8UTpEz0Lzo-AiSrh6K_TCPbhIp51wCLcBGAsYHQ/s1865/free%2Bsource%2Bcode%2Bflask%2Bphyton%2Bwebsite%2Btemplate%2Bthemes%2Bgratis%2Bdownload%2B%25282%2529.jpeg)
+
+Other page display
+
+
+-------------------------------------------------------------
+
+
+Demo : [https://android.axcora.com](https://android.axcora.com)
+
+Documentation installation :[https://www.hockeycomputindo.com/2021/11/free-download-source-code-phyton-flask.html](https://www.hockeycomputindo.com/2021/11/django-blog-cms-source-code-free.html)
+
+
+
+------------------------------------------------------------
+
+### Buy me a coffee ☕️ ❤️  ✌🏻 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
