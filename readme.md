@@ -11,7 +11,7 @@ Documentation installation :[https://www.hockeycomputindo.com/2021/11/free-downl
 
 Demo : [https://android.axcora.com](https://android.axcora.com)
 
-Documentation installation :[https://www.hockeycomputindo.com/2021/11/free-download-source-code-phyton-flask.html](https://www.hockeycomputindo.com/2021/11/django-blog-cms-source-code-free.html)
+Documentation installation :[https://www.hockeycomputindo.com/2021/11/free-download-source-code-phyton-flask.html](https://www.hockeycomputindo.com/2021/11/free-download-source-code-phyton-flask.html)
 
 -------------------------------------------------------------
 
@@ -48,7 +48,7 @@ Other page display
 
 Demo : [https://android.axcora.com](https://android.axcora.com)
 
-Documentation installation :[https://www.hockeycomputindo.com/2021/11/free-download-source-code-phyton-flask.html](https://www.hockeycomputindo.com/2021/11/django-blog-cms-source-code-free.html)
+Documentation installation :[https://www.hockeycomputindo.com/2021/11/free-download-source-code-phyton-flask.html](https://www.hockeycomputindo.com/2021/11/free-download-source-code-phyton-flask.html)
 
 
 
