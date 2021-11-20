@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block content %}
+{% for item in aboutu %}
+<div class="row">
+    <div class="col-12 p-3">
+        <div class="card">
+        <img src="{{ item.cover }}" class="card-img-top" alt="{{ item.title }}">
+        <div class="card-body">
+            <h1><strong><a href="{{ item.Url }}" class="text-success">{{ item.title }}</a></strong></h1>
+            <h3>{{ item.description }}</h3>
+            <p class="card-text">{{ item.content }}</p>
+            <p class="card-text">{{ item.content1 }}</p>
+    </div></div></div>
+    </div>
+{% endfor %}
+{% endblock %}

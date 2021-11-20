@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block content %}
+{% for item in tema %}
+<div class="row">
+{% include "part1.html" %}   
+{% include "part2.html" %}   
+{% include "part3.html" %}   
+</div>
+{% endfor %}
+{% endblock %}

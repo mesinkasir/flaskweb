@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% block content %}
+{% for item in prices %}
+<div class="row">
+<div class="col-12 p-3 p-md-5">
+    <h3><strong><a href="{{ item.Url }}" class="text-success">{{ item.title }}</a></strong></h3>
+    </div>
+    <div class="col-12 col-md-4 p-3">
+        <div class="card">
+        <img src="{{ item.cover1 }}" class="card-img-top" alt="{{ item.title1 }}">
+        <div class="card-body">
+            <h3><strong><a href="{{ item.Url }}" class="text-success">{{ item.title1 }}</a></strong></h3>
+            <p class="text-success">{{ item.price1 }}</p>
+            <p class="card-text">{{ item.fitur1 }}</p>
+            <a href="{{ item.url1 }}" target="_blank" class="btn btn-primary rounded col-12">Order Now </a>
+    </div></div></div>
+    <div class="col-12 col-md-4 p-3">
+        <div class="card">
+        <img src="{{ item.cover2 }}" class="card-img-top" alt="{{ item.title2 }}">
+        <div class="card-body">
+            <h3><strong><a href="{{ item.Url }}" class="text-success">{{ item.title2 }}</a></strong></h3>
+            <p class="text-success">{{ item.price2 }}</p>
+            <p class="card-text">{{ item.fitur2 }}</p>
+            <a href="{{ item.url2 }}" target="_blank" class="btn btn-primary rounded col-12">Order Now </a>
+    </div></div></div>
+    <div class="col-12 col-md-4 p-3">
+        <div class="card">
+        <img src="{{ item.cover3 }}" class="card-img-top" alt="{{ item.title3 }}">
+        <div class="card-body">
+            <h3><strong><a href="{{ item.Url }}" class="text-success">{{ item.title3 }}</a></strong></h3>
+            <p class="text-success">{{ item.price3 }}</p>
+            <p class="card-text">{{ item.fitur3 }}</p>
+            <a href="{{ item.url3 }}" target="_blank" class="btn btn-primary rounded col-12">Order Now </a>
+    </div></div></div>
+
+    <div class="col-12 col-md-12 p-3">
+        <div class="card">
+        <img src="{{ item.cover4 }}" class="card-img-top" alt="{{ item.title4 }}">
+        <div class="card-body">
+            <h3><strong><a href="{{ item.Url }}" class="text-success">{{ item.title4 }}</a></strong></h3><hr/>
+            <p class="card-text">{{ item.fitur4 }}</p><hr/>
+            <p class="card-text">{{ item.fitur5 }}</p>
+    </div></div></div>
+
+</div>
+{% endfor %}
+{% endblock %}

@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block content %}
+{% for item in content %}
+<div class="row">
+{% include "cover.html" %}   
+{% include "section.html" %}            
+</div>
+{% endfor %}
+{% endblock %}

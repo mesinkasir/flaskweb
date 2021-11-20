@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+{% for item in content %}
+<div class="row">
+<div class="col-12 p-3">
+    <div class="card">
+    <img src="{{ item.cover4 }}" class="card-img-top" alt="{{ item.section4title }}">
+    <div class="card-body">
+        <h1><strong><a href="{{ item.section4Url }}" class="text-success">{{ item.section4title }}</a></strong></h1>
+        <h3>{{ item.section4 }}</h3>
+        <p class="card-text">{{ item.section4content }}</p>
+</div></div></div>
+</div>
+{% endfor %}
+{% endblock %}
